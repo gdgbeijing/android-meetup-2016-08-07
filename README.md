@@ -92,3 +92,5 @@ Google Drive: https://drive.google.com/folderview?id=0BwjUkWHl7uAbODRRZFBqTy1nXz
 我们下次再见。
 
 <div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/06_02.JPG' width='300px'/></div>
+
+<div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/07_01.JPG'/></div>
