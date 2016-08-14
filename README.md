@@ -1,4 +1,4 @@
-Aug. 07 北京 GDG Android Meetup 活动回顾，讲义，照片
+## 08/07 北京 GDG Android Meetup 活动回顾，讲义，照片
 
 感谢大家的支持，上周末（8 月 7 号）的 Android Meetup 圆满结束了。
 
