@@ -34,10 +34,50 @@ Google Drive: https://drive.google.com/folderview?id=0BwjUkWHl7uAbODRRZFBqTy1nXz
 
 >   所有图片已经在 Google Plus 上：https://plus.google.com/events/gallery/clb807qh3hj5kueqrl9ho0e992g?sort=1
 
+
+<div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/00_00.JPG'/></div>
+<div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/00_01.JPG'/></div>
+<div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/00_02.JPG'/></div>
+<div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/01_01.JPG'/></div>
+<div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/01_02.JPG'/></div>
+<div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/01_03.JPG'/></div>
+<div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/01_04.JPG'/></div>
+<div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/01_05.JPG'/></div>
+<div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/01_06.JPG'/></div>
+
+<div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/02_00.png'/></div>
+<div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/02_01.JPG'/></div>
+<div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/02_02.JPG'/></div>
+<div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/02_03.jpg'/></div>
+
+<div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/03_01.JPG'/></div>
+<div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/03_02.JPG'/></div>
+<div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/03_03.JPG'/></div>
+<div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/03_04.JPG'/></div>
+<div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/03_05.JPG'/></div>
+
+<div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/04_00.png'/></div>
+<div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/04_01.JPG'/></div>
+<div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/04_02.JPG'/></div>
+<div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/04_03.JPG'/></div>
+
+<div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/05_00.png'/></div>
+<div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/05_01.JPG'/></div>
+<div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/05_02.JPG'/></div>
+<div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/05_03.JPG'/></div>
+<div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/05_04.JPG'/></div>
+<div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/05_05.JPG'/></div>
+
+<div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/06_01.JPG'/></div>
+
 #### 感谢
+
+本次活动，内容筹备：廖祜秋；协助组织：韩国恺；现场志愿者：田源、江昪、王光森、Chen、朱向东、梁志涛、唐溪永等。
 
 感谢所有参与的活动同学，谢谢大家对 GDG 活动的支持；感谢 4 位做分享的同学，谢谢你们长达数周的准备；感谢 GDG 的志愿者，谢谢你们帮忙打理活动现场。
 
 最后，感谢『People Squared 联合创业办公社』，感谢对本次活动提供的场地支持，以及一直以来对 GDG 活动的支持。
 
 我们下次再见。
+
+<div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/06_02.JPG'/></div>
