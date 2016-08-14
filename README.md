@@ -34,6 +34,7 @@ Google Drive: https://drive.google.com/folderview?id=0BwjUkWHl7uAbODRRZFBqTy1nXz
 
 >   所有图片已经在 Google Plus 上：https://plus.google.com/events/gallery/clb807qh3hj5kueqrl9ho0e992g?sort=1
 
+*   签到 / 开场
 
 <div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/00_00.JPG'/></div>
 <div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/00_01.JPG'/></div>
@@ -45,10 +46,14 @@ Google Drive: https://drive.google.com/folderview?id=0BwjUkWHl7uAbODRRZFBqTy1nXz
 <div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/01_05.JPG'/></div>
 <div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/01_06.JPG'/></div>
 
+*   《完美的 Model 层架构》
+
 <div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/02_00.png'/></div>
 <div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/02_01.JPG'/></div>
 <div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/02_02.JPG'/></div>
 <div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/02_03.jpg'/></div>
+
+*   《Android 注解的应用》
 
 <div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/03_01.JPG'/></div>
 <div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/03_02.JPG'/></div>
@@ -56,10 +61,14 @@ Google Drive: https://drive.google.com/folderview?id=0BwjUkWHl7uAbODRRZFBqTy1nXz
 <div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/03_04.JPG'/></div>
 <div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/03_05.JPG'/></div>
 
+*   《Android Gradle 构建系统·初探》
+
 <div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/04_00.png'/></div>
 <div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/04_01.JPG'/></div>
 <div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/04_02.JPG'/></div>
 <div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/04_03.JPG'/></div>
+
+*   《Google Material Design Cognition & Usability》
 
 <div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/05_00.png'/></div>
 <div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/05_01.JPG'/></div>
@@ -68,7 +77,9 @@ Google Drive: https://drive.google.com/folderview?id=0BwjUkWHl7uAbODRRZFBqTy1nXz
 <div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/05_04.JPG'/></div>
 <div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/05_05.JPG'/></div>
 
-<div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/06_01.JPG' width='300px'/></div>
+##### 合影
+
+<div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/06_01.JPG'/></div>
 
 #### 感谢
 
@@ -80,4 +91,4 @@ Google Drive: https://drive.google.com/folderview?id=0BwjUkWHl7uAbODRRZFBqTy1nXz
 
 我们下次再见。
 
-<div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/06_02.JPG'/></div>
+<div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/06_02.JPG' width='300px'/></div>
