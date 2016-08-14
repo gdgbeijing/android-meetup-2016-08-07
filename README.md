@@ -68,7 +68,7 @@ Google Drive: https://drive.google.com/folderview?id=0BwjUkWHl7uAbODRRZFBqTy1nXz
 <div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/05_04.JPG'/></div>
 <div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/05_05.JPG'/></div>
 
-<div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/06_01.JPG'/></div>
+<div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/06_01.JPG' width='300px'/></div>
 
 #### 感谢
 
