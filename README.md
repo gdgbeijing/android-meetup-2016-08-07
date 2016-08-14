@@ -1,4 +1,4 @@
-## 08/07 北京 GDG Android Meetup 活动回顾，讲义，照片
+# 08/07 北京 GDG Android Meetup 活动回顾，讲义，照片
 
 感谢大家的支持，上周末（8 月 7 号）的 Android Meetup 圆满结束了。
 
@@ -18,19 +18,19 @@
 
 *   《Google Material Design Cognition & Usability》 by @neil, https://www.behance.net/neocnz
 
-#### 讲义 / Keynote / PPT 下载
+## 讲义 / Keynote / PPT 下载
 
 Google Drive: https://drive.google.com/folderview?id=0BwjUkWHl7uAbODRRZFBqTy1nXzg&usp=sharing
 
 > 无法访问 Google Drive 的同学可通过 GitHub: https://github.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07 备份下载。
 
-#### 直播回放
+## 直播回放
 
 『一直播』：https://drive.google.com/folderview?id=0BwjUkWHl7uAbODRRZFBqTy1nXzg&usp=sharing
 
 『花椒』：http://www.huajiao.com/l/25696766。
 
-#### 图片
+## 图片
 
 >   所有图片已经在 Google Plus 上：https://plus.google.com/events/gallery/clb807qh3hj5kueqrl9ho0e992g?sort=1
 
@@ -81,7 +81,7 @@ Google Drive: https://drive.google.com/folderview?id=0BwjUkWHl7uAbODRRZFBqTy1nXz
 
 <div><img src='https://raw.githubusercontent.com/liaohuqiu/bj-gdg-android-meetup-2016-08-07/master/gdg-images/06_01.JPG'/></div>
 
-#### 感谢
+## 感谢
 
 本次活动，内容筹备：廖祜秋；协助组织：韩国恺；现场志愿者：田源、江昪、王光森、Chen、朱向东、梁志涛、唐溪永等。
 
