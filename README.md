@@ -26,7 +26,7 @@ Google Drive: https://drive.google.com/folderview?id=0BwjUkWHl7uAbODRRZFBqTy1nXz
 
 ## 直播回放
 
-『一直播』：https://drive.google.com/folderview?id=0BwjUkWHl7uAbODRRZFBqTy1nXzg&usp=sharing
+『一直播』：http://m.yizhibo.com/l/0MMRmB5KF5YBo-RH.html
 
 『花椒』：http://www.huajiao.com/l/25696766。
 
